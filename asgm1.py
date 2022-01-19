@@ -1,3 +1,3 @@
 #ques3
-x=[enter sid,"km","m","Electrical Engineering",10]
+x=['enter sid',"km","m","Electrical Engineering",10]
 print(x)
