@@ -13,7 +13,7 @@ b=a*0.2
 print("income tax is:",b)
 
 #ques3
-x=[enter sid,"km","m","Electrical Engineering",10]
+x=['enter sid',"km","m","Electrical Engineering",10]
 print(x)
 
 #ques4
